@@ -1,4 +1,4 @@
-## Hi there 👋
+# Welcome, I'm Gen 👋
 
 <!--
 **GEdnieLockett/GEdnieLockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+A Data Analyst with a background in System Admin, Marketing and Report Building
+
+
+🔍 Seeking opportunities in Data Analytics, Business Anaylst, Power BI Specialist
+
+📊 Currently working on Data Scraping and Data Visualisation Projects
+
+🌱 I'm currently learning about Python, SQL adn API integration
