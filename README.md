@@ -22,6 +22,6 @@ A Data Analyst with a background in System Admin, Marketing and Report Building
 
 🔍 Seeking opportunities in Data Analytics, Business Anaylst, Power BI Specialist
 
-📊 Currently working on Data Scraping and Data Visualisation Projects
+📊 Currently working on Data Scraping, Data Bricks and Data Visualisation Projects
 
-🌱 I'm currently learning about Python, SQL adn API integration
+🌱 I'm currently learning about Python, SQL and API integration
