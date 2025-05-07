@@ -1,6 +1,7 @@
 # Welcome, I'm Gen 👋
 
-![myfile](https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif)
+![myfile](https://github.com/GEdnieLockett/GEdnieLockett/blob/main/DA%20Gif.gif)
+
 
 <!--
 **GEdnieLockett/GEdnieLockett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
